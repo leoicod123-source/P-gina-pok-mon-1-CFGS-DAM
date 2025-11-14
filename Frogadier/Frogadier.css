@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(122, 206, 255);
+}
+
+a{
+    text-decoration: none;
+}
+
+.volver{
+    background-color: blanchedalmond;
+    width: 70px;
+    border-radius: 7px;
+    padding: 5px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.volver:hover{
+    background-color: aquamarine;
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.evo{
+    background-color: blanchedalmond;
+    width: 120px;
+    border-radius: 7px;
+    padding: 5px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.evo:hover{
+    background-color: aquamarine;
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+.div1{
+    display: inline-flex;
+}
+
+table{
+    border:"1";
+    max-width:"200px";
+    padding:"6";
+    word-spacing:"0";
+    font-size: 17px;
+}
+.celda1{
+    float: left;
+    max-width: 700px;
+}
+
+.texto{
+    background-color: rgb(48, 194, 238); 
+    border-radius: 10px; 
+    padding: 10px;
+}
