@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+
+<title>El podcast de Radios Libres</title>
+<link>https://leoicod123-source.github.io/P-gina-pok-mon-1-CFGS-DAM/</link>
+<description>Radios Libres presenta su podcast sobre radios comunitarias y tecnologías libres.</description>
+<copyright>CC 4.0 – BY-SA</copyright>
+
+<item>
+    <title>Episodio 2 – Usa software libre en tu radio</title>
+    <link>https://leoicod123-source.github.io/P-gina-pok-mon-1-CFGS-DAM/</link>
+    <description>Conoce todas las alternativas para liberar tu radio.</description>
+    <author>Radios Libres</author>
+    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>Episodio 1 – Bienvenida</title>
+    <link>https://leoicod123-source.github.io/P-gina-pok-mon-1-CFGS-DAM/</link>
+    <description>En el episodio inaugural de nuestro primer podcast les contaremos cómo será esta temporada.</description>
+    <author>Radios Libres</author>
+    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+</channel>
+
+</rss>
